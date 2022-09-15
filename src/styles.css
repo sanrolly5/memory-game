@@ -1,0 +1,10 @@
+.grid {
+    width:500px;
+    height: 620px;
+    border:solid black 1px;
+}
+
+img{
+ width: 120px;
+ height: 140px;   
+}
